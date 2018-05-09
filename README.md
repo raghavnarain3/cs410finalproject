@@ -25,7 +25,7 @@ In each case, navigate to the forked folder to use the application.
 Run a command such as this to normalize direct user input.
 
 ```
-main.py ‘Aaron likes dirty old foood, 4eva
+main.py ‘Aaron likes dirty old foood, 4eva'
 ```
 
 ### File Input
@@ -33,7 +33,7 @@ main.py ‘Aaron likes dirty old foood, 4eva
 Run a command such as this to normalize data from a file. Note: Each line in the input file must be a phrase or collection of text you wish to normalize. The input file must adhere to this format exactly.
 
 ```
-main.py ‘file’ ‘file.txt
+main.py ‘file’ ‘file.txt'
 ```
 
 ### Twitter Data
@@ -41,6 +41,6 @@ main.py ‘file’ ‘file.txt
 The final usage option is to supply a keyword to parse twitter data for normalization. Run a command such as this.
 
 ```
-main.py ‘tweets’ ‘4eva
+main.py ‘tweets’ ‘4eva'
 ```
 
