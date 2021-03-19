@@ -25,7 +25,7 @@ idna==2.6
 imagesize==1.0.0
 itsdangerous==0.24
 jellyfish==0.6.1
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 lru-dict==1.1.6
 MarkupSafe==1.0
